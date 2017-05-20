@@ -1,0 +1,17 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Calculator CLI example.",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculator",
+    "cli",
+    "example",
+    "bekraf"
+  ],
+  "author": "Adi Sayoga",
+  "license": "GPL-3.0"
+}
